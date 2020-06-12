@@ -1,6 +1,6 @@
 # web3dart
-A dart library that connects to interact with the Ethereum blockchain. It connects
-to an Ethereum node to send transactions, interact with smart contracts and much
+A dart library that connects to interact with the Celo blockchain. It connects to the
+Alfajores Testnet to send transactions, interact with smart contracts and much
 more!
 
 ### Features
